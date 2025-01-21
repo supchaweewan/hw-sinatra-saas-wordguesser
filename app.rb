@@ -66,6 +66,6 @@ end
 
 class WordGuesserApp
   post '/new' do 
-    "Hello World"
+    "Hello World, you're a block a cheese"
   end
 end
