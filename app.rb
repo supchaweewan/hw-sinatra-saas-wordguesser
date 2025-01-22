@@ -64,8 +64,3 @@ class WordGuesserApp < Sinatra::Base
 end
 
 
-class WordGuesserApp
-  post '/new' do 
-    "Hello World, you're a block a cheese"
-  end
-end
